@@ -1,5 +1,6 @@
 # FPGA
 Estudo sobre FPGA e suas linguagem de programação.
+
 VHDL (VHSIC Hardware Description Language): VHDL é uma linguagem de descrição de hardware baseada em texto. Ela é usada para descrever o comportamento e a estrutura de sistemas digitais. É amplamente utilizada na indústria e é conhecida por sua robustez e capacidade de modelagem complexa.
 
 Verilog: O Verilog é outra linguagem de descrição de hardware popular. Ele também é usado para descrever a estrutura e o comportamento de sistemas digitais. Muitas vezes, Verilog é escolhido por sua sintaxe mais concisa em comparação com o VHDL.
